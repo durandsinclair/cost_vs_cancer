@@ -1,5 +1,7 @@
 # cost_vs_cancer
-Does a country's cancer rate correlate with cost of cigarettes? This question was posed on an Andriy Burkov LinkedIn [post](https://www.linkedin.com/feed/update/urn:li:activity:6545332858129563649) by Bryan Clark, after Andriy posted a data viz showing the cost of cigarettes in 13 countries.
+Does a country's cancer rate correlate with cost of cigarettes? 
+
+This question was posed on an Andriy Burkov LinkedIn [post](https://www.linkedin.com/feed/update/urn:li:activity:6545332858129563649) by Bryan Clark, after Andriy posted a data viz showing the cost of cigarettes in 13 countries.
 
 To find out, I found a data set of cancer rates around the world from the [World Cancer Research Fund](https://www.wcrf.org/dietandcancer/cancer-trends/lung-cancer-statistics), which had rates for ten of the thirteen countries.
 
